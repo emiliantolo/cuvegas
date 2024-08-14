@@ -1,0 +1,1 @@
+import vegas_cuda_extension.python_wrapper
