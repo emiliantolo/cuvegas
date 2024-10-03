@@ -2,6 +2,8 @@
 
 cuVegas: Accelerate Multidimensional Monte Carlo Integration through a Parallelized CUDA-based Implementation of the VEGAS Enhanced Algorithm
 
+https://arxiv.org/abs/2408.09229
+
 ## Project structure
 
 - **src/** - contains CUDA C source files
